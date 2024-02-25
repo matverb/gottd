@@ -1,4 +1,4 @@
-module hello
+module github.com/matverb/gottd
 
 go 1.22.0
 
